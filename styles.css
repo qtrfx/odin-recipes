@@ -1,0 +1,22 @@
+body {
+    background-color: #111111;
+    padding: 15px;
+}
+
+* {
+    color: rgb(235, 235, 235);
+    font-family: 'Helvetica', sans-serif;
+}
+
+.recipe-list {
+    list-style: none;
+    padding: 0px;
+
+}
+a,
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: solid;
+}
